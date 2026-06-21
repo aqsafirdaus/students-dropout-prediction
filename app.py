@@ -477,9 +477,6 @@ if st.button("🔍 Predict Student Status"):
     - 📝 Number of enrolled and credited curricular units
     - 🎓 Course / Study Program
     - 👤 Age at enrollment
-    - 💰 Debtor status
-    - 👩 Mother's educational background
-    - 🌍 Nationality
     - 📈 Economic conditions (Unemployment Rate)
 
     These factors were obtained from Logistic Regression feature analysis.
