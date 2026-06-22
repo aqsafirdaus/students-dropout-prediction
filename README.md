@@ -165,18 +165,6 @@ Buka browser:
 
 http://localhost:3000
 
-Login menggunakan akun berikut:
-
-Email:
-
-maqsafirdaus1@gmail.com
-
-Password:
-
-AqsA_2005
-
-Setelah login, dashboard Students Performance Analysis dapat langsung digunakan.
-
 ---
 
 ## Model Machine Learning
@@ -285,11 +273,9 @@ Sistem juga menampilkan faktor-faktor yang secara umum memiliki pengaruh terbesa
 
 Informasi ini dapat membantu pihak institusi memahami faktor-faktor utama yang perlu diperhatikan untuk mencegah mahasiswa mengalami dropout.
 
-### Link Prototype
+### Link Prototype Streamlit
 
-```text
 https://students-performance-aqsafirdaus.streamlit.app/
-```
 
 ---
 
