@@ -278,7 +278,7 @@ Informasi ini dapat membantu pihak institusi memahami faktor-faktor utama yang p
 
 ### Link Prototype Streamlit
 
-https://students-performance-aqsafirdaus.streamlit.app/
+https://students-dropout-prediction-aqsafirdaus.streamlit.app/
 
 ---
 
